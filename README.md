@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm an **Experienced AI/ML Professional** with ove
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krondosfire&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krondosfire&show_icons=true&theme=dark&custom_title=Krondosfire's%20GitHub%20Stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krondosfire&layout=compact&theme=radical)
 
 ---
