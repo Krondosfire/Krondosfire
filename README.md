@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm an **Experienced AI/ML Professional** with over 5 years of expertise in designing and deploying cutting-edge AI solutions. My passion lies in leveraging machine learning algorithms, data analysis, and database-centric solutions to drive innovation and deliver impactful results.
+Welcome to my GitHub profile! I am working to improve my expertise in designing and deploying cutting-edge AI solutions. My passion lies in leveraging machine learning algorithms, data analysis, and database-centric solutions to drive innovation and deliver impactful results.
 
 ---
 
