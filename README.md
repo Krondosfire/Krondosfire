@@ -17,30 +17,6 @@ Welcome to my GitHub profile! I'm an **Experienced AI/ML Professional** with ove
 ### Programming Languages:
 - Python | R | SQL  
 
-### Machine Learning & AI:
-- Supervised/Unsupervised Learning  
-- Deep Learning Architectures (LSTM, RNN, Transformers)  
-- Retrieval-Augmented Generation (RAG)  
-
-### Data Engineering:
-- PySpark | Hadoop | Apache Spark  
-- SSIS for ETL Pipelines  
-
-### Cloud & Storage:
-- IBM Cloud Object Storage  
-- AWS | GCP  
-
-### Business Intelligence:
-- Data Visualization with Tableau, Seaborn, Matplotlib  
-- Statistical Analysis & Decision Optimization  
-
----
-
-## 🌟 Highlights
-- Bridging **database engineering** with **ML Ops**, ensuring compliance with enterprise security policies like RBAC and GDPR.
-- Accelerating model deployment cycles while maintaining high-performance standards.
-- Proficient in leveraging proprietary data to enhance AI model responses through retrieval-augmented generation (RAG).
-
 ---
 
 ## 📈 GitHub Stats
@@ -56,7 +32,6 @@ Feel free to reach out if you'd like to collaborate on exciting AI/ML projects o
 
 ---
 
-Thanks for stopping by! Let's build something amazing together. 🚀
 
 <!--
 **Krondosfire/Krondosfire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
