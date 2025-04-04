@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am working to improve my expertise in designing 
 
 ## 🛠️ Skills & Tools
 ### Programming Languages:
-- Python | R | SQL  
+- Python | R | SQL | JavaScript | VBA 
 
 ---
 
